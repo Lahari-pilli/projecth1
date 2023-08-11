@@ -17,18 +17,20 @@ This is a web based application developed for health based website
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots 📸
-### Home page -   
+ 
+![Screenshot (6)](https://github.com/Lahari-pilli/projecth1/assets/137074471/7ca4bc01-843e-4027-a0a0-0b4c6f54f224)
 
-### Team page -
-
-### Contact page -
-
-### Menu Page -
-
-### About Us Page -
+-![Screenshot (3)](https://github.com/Lahari-pilli/projecth1/assets/137074471/109f136d-ac97-4d06-85c2-87619baa87c5)
 
 
-## Tech Stack 💻
+ -![Screenshot (7)](https://github.com/Lahari-pilli/projecth1/assets/137074471/f611103d-fc42-432d-9caa-f0aad22c1b8c)
+![Screenshot (8)](https://github.com/Lahari-pilli/projecth1/assets/137074471/5d1d4beb-28f8-450e-88b3-c1a885d2a86d)
+
+![Screenshot (4)](https://github.com/Lahari-pilli/projecth1/assets/137074471/5725c526-37e0-49e9-b8ab-b7d44c9f7a48)
+![Screenshot (8)](https://github.com/Lahari-pilli/projecth1/assets/137074471/24d5df15-d4e2-4cd0-a98e-f27139d46a22)
+
+
+
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
